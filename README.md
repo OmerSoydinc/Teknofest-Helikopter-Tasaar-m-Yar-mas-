@@ -17,5 +17,16 @@ Bu çalışmayı NETBEANS ortamında, JAVA dilini kullanarak ve kullanıcı ara 
 3-) Yakıt Hesaplama Ekranı. (Bu ekran şimdilik boş durumdadır. Ekip arkadaşlarımla olan görüşme sonucunda bu ekranı raporumuz yeterli görülüp final aşamasına kaldığımız zaman tamamlamak üzere yarıda bırakmış olduk.)
 
 
+Giriş Ekranı
 
-![alt text](https://drive.google.com/file/d/14hXy2ycvDewfmEI5xUcwE59_hXnVAf0U/view?usp=sharing)
+![alt text](https://github.com/OmerSoydinc/Teknofest-Helikopter-Tasarimi-Yarismasi/blob/main/Teknofest/resimler/giri%C5%9F%20ekran%C4%B1.png)
+
+
+
+Ağırlık Hesaplama Ekranı
+
+![alt text](https://github.com/OmerSoydinc/Teknofest-Helikopter-Tasarimi-Yarismasi/blob/main/Teknofest/resimler/s1.png)
+
+![alt text](https://github.com/OmerSoydinc/Teknofest-Helikopter-Tasarimi-Yarismasi/blob/main/Teknofest/resimler/s3.png)                     
+
+![alt text](https://github.com/OmerSoydinc/Teknofest-Helikopter-Tasarimi-Yarismasi/blob/main/Teknofest/resimler/s2.png)
