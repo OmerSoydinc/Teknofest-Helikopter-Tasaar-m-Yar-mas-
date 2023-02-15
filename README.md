@@ -6,7 +6,7 @@ Açıklama: 2023 Yılında 5 gurup üyesi ve 1 danışmandan oluşan ekibimiz il
 Bu depoda Ara Tasarım Aşamasından sonra Final Tasarım Aşaması için helikopter hesaplamaları kodları bulunmaktadır. 
 
 
-Bu çalışmayı NETBEANS ortamında, JAVA dilini kullanarak ve kullanıcı ara yüz için SWING kütüphanesinden yararlandım.    
+Bu çalışmayı NETBEANS ortamında, JAVA dilini kullanarak ve kullanıcı ara yüzü oluşturmak için SWING kütüphanesinden yararlandım.    
 
 Çalışmamda 3 adet ekran bulunmaktadır. 
 
