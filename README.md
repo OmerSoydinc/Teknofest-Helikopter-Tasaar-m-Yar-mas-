@@ -18,3 +18,4 @@ Bu çalışmayı NETBEANS ortamında, JAVA dilini kullanarak ve kullanıcı ara 
 
 
 
+![alt text](https://drive.google.com/file/d/14hXy2ycvDewfmEI5xUcwE59_hXnVAf0U/view?usp=sharing)
