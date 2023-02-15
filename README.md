@@ -14,4 +14,4 @@ Açıklama: 2023 Yılında 5 gurup üyesi ve 1 danışman ile beraber Teknofest 
 3-) Yakıt Hesaplama Ekranı. (Bu ekran şimdilik boş durumdadır. Ekip arkadaşlarımla olan görüşme sonucunda bu ekranı raporumuz yeterli görülüp final aşamasına kaldığımız zaman tamamlamak üzere yarıda bırakmış olduk.)
 
 
-![alt text](https://dosya.co/z1ajy2w844vp/giriş_ekranı.png.html)
+
