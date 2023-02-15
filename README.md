@@ -1,7 +1,7 @@
 # 2023 Teknofest-Helikopter-Tasarimi-Yarismasi
 Takım Adı: HYDROCOPTER
 
-Açıklama: 2023 Yılında 5 gurup üyesi ve 1 danışman ile beraber Teknofest tarafından düzenlenen Helikopter Tasarımı Yarışmasında, Ara Tasarım Aşamasından sonra Final Tasarım Aşaması için raporda da yer alan helikopter hesaplamaları kodları bulunmaktadır. 
+Açıklama: 2023 Yılında 5 gurup üyesi ve 1 danışmandan oluşan ekibimiz ile beraber Teknofest tarafından düzenlenen Helikopter Tasarımı Yarışmasına katıldık. Bu depoda Ara Tasarım Aşamasından sonra Final Tasarım Aşaması için helikopter hesaplamaları kodları bulunmaktadır. 
 
 Öncelikle çalışmamı NETBEANS ortamında JAVA dili kullanılarak ve kullanıcı ara yüzü oluşturmak için SWING kütüphanesinden yararlandım. Çalışmamda 3 adet ekran bulunmaktadır. 
 
